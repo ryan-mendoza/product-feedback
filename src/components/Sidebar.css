@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;600;700&display=swap');
+
+.sidebar {
+    height: 135px;
+    width: 255px;
+    border-radius: 20px;
+    background: rgb(232,77,112);
+    background: linear-gradient(90deg, rgba(232,77,112,1) 0%, rgba(163,55,246,1) 35%, rgba(40,167,237,1) 100%);
+}
+
+p {
+    font-family: 'Jost', sans-serif;
+    align-items: center;
+    justify-content: center;
+}
